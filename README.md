@@ -5,6 +5,6 @@ im just gonna show you some lovely jubbly python code its just gonna put down so
 3. y = 5
 4. print(x + y)
 
-this hsould give you an output of 15. okay??
+this should give you an output of 15. okay??
 
-right so im gonna make some chnages that will only be seen on this speicla new branch
+right so im gonna make some chnages that will only be seen on this special new branch
